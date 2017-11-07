@@ -53,28 +53,35 @@ table {
 /**
  * Layout
  */
-body {
+/*body {
 	font-family: 'Raleway', sans-serif;
-}
+}*/
 
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 
-header {
+/*header {
 	background: #aaa;
 	padding: 20px 0;
 	margin-bottom: 100px;
 	color: #fff;
+}*/
+
+h1 {
+	font-family: 'serif', sans-serif;
+	font-size: 25px;
+	color: red;
+	font-weight: 800;
 }
 
-footer {
+/*footer {
 	margin-top: 100px;
 	background: #3c3c3c;
 	padding: 20px 0;
 	color: #fff;
-}
+}*/
 
 /**
  * Grid
