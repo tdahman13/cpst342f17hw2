@@ -54,9 +54,9 @@ table {
  * Layout
  */
  
-/*body {
-	font-family: 'Vollkorn SC', serif;
-}*/
+body {
+	font-family: "Lobster", cursive;
+}
 
 .container {
 	width: 960px;
@@ -68,6 +68,10 @@ header {
 	padding: 20px 0;
 	margin-bottom: 100px;
 	color: #fff;
+}
+
+#main-body {
+	background: #c7d0fb;
 }
 
 h1 {
@@ -90,8 +94,8 @@ p {
 }
 
 footer {
-	margin-top: 100px;
-	background: mediumpurple;
+	margin-top: 50px;
+	background: #100010;
 	padding: 20px 0;
 	color: #fff;
 }
