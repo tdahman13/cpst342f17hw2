@@ -104,6 +104,10 @@ footer {
 	color: #fff;
 }
 
+nav ul {
+	float: right;
+}
+
 /**
  * Grid
  */
@@ -161,8 +165,8 @@ footer {
 	width: 100%;
 }
 
-/*@media only screen and (max-width: 768px) {
-	[class*="col-"] {
-		width: 100%;
-	}
-}*/
+
+/*Code from class */
+@media (max-width: 960px) {
+    * { width: 100% !important; }
+}

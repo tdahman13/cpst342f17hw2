@@ -12,5 +12,8 @@ different widths.
 One thing that was easier to do in Bootstrap was making a spacer column.  I ended up putting 
 an empty <p> when other empty containers were not spacing properly.  
 
-I added a google.font and a font-stack and I think that this is fully semantic.  I was not able
-to get index.html to be fully responsive.
+
+EXTRA CREDIT
+
+I added a google.font and a font-stack and I think that this is fully semantic.  I think that 
+I was able to make the site responsive, just took the code from class and cheated with "!important"
