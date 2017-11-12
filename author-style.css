@@ -54,15 +54,19 @@ table {
  * Layout
  */
  
-/*body {
-	font-family: 'Vollkorn SC', serif;
-}*/
+body {
+	font-family: "Lobster", cursive;
+}
 
 header {
 	background: #aaa;
 	padding: 20px 0;
 	margin-bottom: 50px;
 	color: #fff;
+}
+
+header section div {
+	font-size: 2rem;
 }
 
 main {
@@ -84,7 +88,7 @@ h2 {
 }
 
 p {
-	line-height: 40px;
+	line-height: 60px;
 	margin-bottom: 30px;
 }
 
